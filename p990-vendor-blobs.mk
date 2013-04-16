@@ -82,7 +82,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p990/proprietary/lib/libaudioservice.so:system/lib/libaudioservice.so \
     vendor/lge/p990/proprietary/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
     vendor/lge/p990/proprietary/lib/libsktdrm_sf.so:system/lib/libsktdrm_sf.so \
-    vendor/lge/p990/proprietary/lib/lge-ril.so:system/lib/lge-ril.so \
+    vendor/lge/p990/proprietary/lib/liblgeril.so:system/lib/liblgeril.so \
     vendor/lge/p990/proprietary/lib/libnvmm_parser.so:system/lib/libnvmm_parser.so \
     vendor/lge/p990/proprietary/lib/libnvomx.so:system/lib/libnvomx.so \
     vendor/lge/p990/proprietary/lib/liblgemmqcelp.so:system/lib/liblgemmqcelp.so \
@@ -99,6 +99,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p990/proprietary/lib/libnvomxilclient.so:system/lib/libnvomxilclient.so \
     vendor/lge/p990/proprietary/lib/liblvvewrapper.so:system/lib/liblvvewrapper.so \
     vendor/lge/p990/proprietary/lib/libasound.so:system/lib/libasound.so \
+    vendor/lge/p990/proprietary/lib/libasound_module_rate_speexrate.so:system/lib/libasound_module_rate_speexrate.so \
     vendor/lge/p990/proprietary/lib/libnvmm_writer.so:system/lib/libnvmm_writer.so \
     vendor/lge/p990/proprietary/lib/libnvodm_misc.so:system/lib/libnvodm_misc.so \
     vendor/lge/p990/proprietary/lib/libnvmm_audio.so:system/lib/libnvmm_audio.so \
